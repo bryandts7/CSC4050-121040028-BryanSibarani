@@ -1,0 +1,24 @@
+{
+    "dataset": "LJSpeech",
+    "statistics": {
+        "size": 555,
+        "hours": 0.6223
+    },
+    "train": {
+        "size": 526,
+        "hours": 0.5849
+    },
+    "test": {
+        "size": 29,
+        "hours": 0.0375
+    },
+    "singers": {
+        "size": 1,
+        "training_minutes": {
+            "LJSpeech_LJSpeech": 35.09
+        },
+        "minutes": {
+            "LJSpeech_LJSpeech": 37.34
+        }
+    }
+}

@@ -1,0 +1,104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 1.216984126984127
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "words"
+		xmin = 0.0
+		xmax = 1.216984126984127
+		intervals: size = 4
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.180
+				text = "ada"
+			intervals [2]:
+				xmin = 0.180
+				xmax = 0.480
+				text = "apa"
+			intervals [3]:
+				xmin = 0.480
+				xmax = 1.200
+				text = "passepartout"
+			intervals [4]:
+				xmin = 1.200
+				xmax = 1.216984126984127
+				text = ""
+	item [2]:
+		class = "IntervalTier"
+		name = "phones"
+		xmin = 0.0
+		xmax = 1.216984126984127
+		intervals: size = 17
+			intervals [1]:
+				xmin = 0.000
+				xmax = 0.070
+				text = "EY1"
+			intervals [2]:
+				xmin = 0.070
+				xmax = 0.140
+				text = "D"
+			intervals [3]:
+				xmin = 0.140
+				xmax = 0.180
+				text = "AH0"
+			intervals [4]:
+				xmin = 0.180
+				xmax = 0.300
+				text = "AE1"
+			intervals [5]:
+				xmin = 0.300
+				xmax = 0.350
+				text = "P"
+			intervals [6]:
+				xmin = 0.350
+				xmax = 0.480
+				text = "AH0"
+			intervals [7]:
+				xmin = 0.480
+				xmax = 0.520
+				text = "P"
+			intervals [8]:
+				xmin = 0.520
+				xmax = 0.610
+				text = "AE1"
+			intervals [9]:
+				xmin = 0.610
+				xmax = 0.690
+				text = "S"
+			intervals [10]:
+				xmin = 0.690
+				xmax = 0.740
+				text = "IH0"
+			intervals [11]:
+				xmin = 0.740
+				xmax = 0.800
+				text = "P"
+			intervals [12]:
+				xmin = 0.800
+				xmax = 0.830
+				text = "AA1"
+			intervals [13]:
+				xmin = 0.830
+				xmax = 0.950
+				text = "R"
+			intervals [14]:
+				xmin = 0.950
+				xmax = 1.010
+				text = "CH"
+			intervals [15]:
+				xmin = 1.010
+				xmax = 1.170
+				text = "AW2"
+			intervals [16]:
+				xmin = 1.170
+				xmax = 1.200
+				text = "T"
+			intervals [17]:
+				xmin = 1.200
+				xmax = 1.216984126984127
+				text = ""

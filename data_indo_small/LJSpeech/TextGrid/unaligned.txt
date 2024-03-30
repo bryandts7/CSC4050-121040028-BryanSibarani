@@ -1,0 +1,2 @@
+80hari_06_verne_128kb_0103	Could not decode (beam too narrow)
+80hari_34_verne_128kb_0098	Could not decode (beam too narrow)

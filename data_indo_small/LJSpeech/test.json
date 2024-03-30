@@ -1,0 +1,263 @@
+[
+    {
+        "Dataset": "LJSpeech",
+        "index": 13,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_36_verne_128kb_0102",
+        "Text": "lagi lima menit",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_36_verne_128kb_0102.wav",
+        "Duration": 1.12
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 3,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_37_verne_128kb_0089",
+        "Text": "ada apa  passepartout",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_37_verne_128kb_0089.wav",
+        "Duration": 1.216984126984127
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 18,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_20_verne_128kb_0117",
+        "Text": "maka djawab aouda",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_20_verne_128kb_0117.wav",
+        "Duration": 1.3109977324263038
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 1,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_28_verne_128kb_0160",
+        "Text": "maka keréta apipoen berhentilah",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_28_verne_128kb_0160.wav",
+        "Duration": 1.46
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 15,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_12_verne_128kb_0004",
+        "Text": "orang parsi itoe mengatakan",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_12_verne_128kb_0004.wav",
+        "Duration": 1.8390022675736961
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 20,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_20_verne_128kb_0181",
+        "Text": "pada waktoe itoe kebetoelan poekoel tiga",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_20_verne_128kb_0181.wav",
+        "Duration": 2.3129931972789115
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 19,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_21_verne_128kb_0092",
+        "Text": "fix diadjak djoega makan bersama sama",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_21_verne_128kb_0092.wav",
+        "Duration": 2.4049886621315193
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 4,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_21_verne_128kb_0108",
+        "Text": "hal itoe ta  oesah kita tjakapkan  toean fix",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_21_verne_128kb_0108.wav",
+        "Duration": 2.959002267573696
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 0,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_29_verne_128kb_0027",
+        "Text": "jang mendjadi pokok kemadjoean dan kesopanan ra jat",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_29_verne_128kb_0027.wav",
+        "Duration": 2.98
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 5,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_08_verne_128kb_0054",
+        "Text": "djadi engkau berangkat dari london amat tergesa gesa sekali  boekan",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_08_verne_128kb_0054.wav",
+        "Duration": 3.057392290249433
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 8,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_05_verne_128kb_0043",
+        "Text": "berapa pekerti jang lebih  adjaib  adjaib soedah kami lihat",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_05_verne_128kb_0043.wav",
+        "Duration": 3.1949886621315193
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 23,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_08_verne_128kb_0022",
+        "Text": "itoepoen hanja melihat dari djendéla keréta api waktoe hoedjan besar",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_08_verne_128kb_0022.wav",
+        "Duration": 3.3919954648526076
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 7,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_15_verne_128kb_0226",
+        "Text": "sepatoe tjelaka kau  mahal benar hargamoe",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_15_verne_128kb_0226.wav",
+        "Duration": 3.459002267573696
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 24,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_07_verne_128kb_0006",
+        "Text": "bahwa pentjoeri jang kami nantikan itoe  benar ada menoempang dengan kapal  mongolia",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_07_verne_128kb_0006.wav",
+        "Duration": 4.17
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 11,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_21_verne_128kb_0276",
+        "Text": "ia akan kalah dalam pertaroehannja dan kehilangan segala harta bendanja",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_21_verne_128kb_0276.wav",
+        "Duration": 4.281995464852607
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 27,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_22_verne_128kb_0051",
+        "Text": "mana boléh djadi seorangpoen ta  kan pertjaja  bahwa fogg itoe seorang pentjoeri",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_22_verne_128kb_0051.wav",
+        "Duration": 4.370997732426304
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 6,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_12_verne_128kb_0005",
+        "Text": "bahwa perdjalanan menempoeh djalan memintas itoe berkoerang doea poeloeh mijl",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_12_verne_128kb_0005.wav",
+        "Duration": 4.447006802721089
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 12,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_14_verne_128kb_0171",
+        "Text": "tentera djenderal itoe tempatnja beberapa mijl sebelah oetara kota benares",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_14_verne_128kb_0171.wav",
+        "Duration": 4.516009070294785
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 26,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_07_verne_128kb_0049",
+        "Text": "tetapi maksoed saja minta tanda tangan itoe hanja oentoek keterangan sadja saja datang ke suez",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_07_verne_128kb_0049.wav",
+        "Duration": 4.7490022675736965
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 2,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_21_verne_128kb_0111",
+        "Text": "maka dengan tetap dan seolah olah ta  boléh menjangkal lagi  fogg mendjawab",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_21_verne_128kb_0111.wav",
+        "Duration": 4.801995464852608
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 17,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_23_verne_128kb_0109",
+        "Text": "maka dalam pekerdjaan jang baroe itoe iapoen disoeroeh menoendjoekkan permainan jang amat soekar",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_23_verne_128kb_0109.wav",
+        "Duration": 5.028004535147392
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 22,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_05_verne_128kb_0094",
+        "Text": "jaitoe setelah karangan itoe termoeat dalam soerat kabar aardrijkskundig genootschap",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_05_verne_128kb_0094.wav",
+        "Duration": 5.320997732426304
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 28,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_02_verne_128kb_0150",
+        "Text": "itoelah menandakan bahwa orang isi roemah itoe ta  soeka kepada perkelahian atau permoesoehan",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_02_verne_128kb_0150.wav",
+        "Duration": 5.862018140589569
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 14,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_03_verne_128kb_0159",
+        "Text": "dengan   enam     jokohama ke san francisco dengan   dua puluh dua     san francisco ke new jork",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_03_verne_128kb_0159.wav",
+        "Duration": 6.0875963718820865
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 10,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_33_verne_128kb_0004",
+        "Text": "kapal itoe berlajarlah menoedjoe pantai long island dengan memandang pandoe fire island",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_33_verne_128kb_0004.wav",
+        "Duration": 6.33
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 21,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_03_verne_128kb_0106",
+        "Text": "toean gauthier ralph ta  sjak lagi akan hal kesoedahan  penghabisan  orang mentjahari keterangan itoe dan iapoen berpikir djoega",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_03_verne_128kb_0106.wav",
+        "Duration": 7.287006802721089
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 9,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_03_verne_128kb_0238",
+        "Text": "djadi saja haroeslah tiba kembali di london lagi dalam bilik reform club ini pada hari sabtoe tanggal dua puluh satu december",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_03_verne_128kb_0238.wav",
+        "Duration": 8.996009070294784
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 25,
+        "Singer": "LJSpeech",
+        "Uid": "human_rights_un_ind_rd_0000",
+        "Text": "pernyataan umum tentang hak hak asasi manusia mukadimah menimbang bahwa pengakuan atas martabat alamiah dan hak hak yang sama dan mutlak dari semua anggota keluarga manusia adalah dasar kemerdekaan",
+        "Path": "datasets/librivox_indo_small/wavs/human_rights_un_ind_rd_0000.wav",
+        "Duration": 13.163990929705216
+    },
+    {
+        "Dataset": "LJSpeech",
+        "index": 16,
+        "Singer": "LJSpeech",
+        "Uid": "80hari_06_verne_128kb_0072",
+        "Text": "o  toean konsol  ketahoeilah oléh toean  semoea pentjoeri pentjoeri roepanja seperti orang baik baik  sebab kalau tiada demikian  apabila ia soeka melakoekan kelakoean djahat  maka dengan sebentar tentoe akan tertangkaplah ia",
+        "Path": "datasets/librivox_indo_small/wavs/80hari_06_verne_128kb_0072.wav",
+        "Duration": 14.832993197278912
+    }
+]
